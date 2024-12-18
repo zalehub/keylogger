@@ -28,3 +28,5 @@ g++ -o keylogger keylogger.cpp
 键盘输入将被记录到 keylog.txt 文件中。
 
 注意：本程序仅供学习和研究使用。
+# keylogger
+# keylogger
